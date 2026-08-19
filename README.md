@@ -1,5 +1,5 @@
 ### 👋 About Me
-Hi there, this is **Punit Vara**. Please feel free to contact me: punitvara@gmail.com
+Hi there, this is **Punit Vara**. Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/punitvara)
 
 I'm an Experienced Machine Learning Engineer, currently building ML training infrastructure and Agentic AI systems. Curious to read and follow almost all things ML.
 
@@ -15,7 +15,6 @@ I'm an Experienced Machine Learning Engineer, currently building ML training inf
 &ensp; MLOps, LLMs & Agentic AI, Distributed Training Infrastructure, Speech (STT/TTS)
 
 **📫 Contact**
-- Email: punitvara@gmail.com
+- LinkedIn: [in/punitvara](https://www.linkedin.com/in/punitvara)
 - YouTube: [@punitvara.](https://www.youtube.com/@punitvara.)
 - Twitter/X: [@punitvara](https://twitter.com/punitvara)
-- LinkedIn: [in/punitvara](https://www.linkedin.com/in/punitvara)
