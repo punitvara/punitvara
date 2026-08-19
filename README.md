@@ -16,6 +16,6 @@ I'm an Experienced Machine Learning Engineer, currently building ML training inf
 
 **📫 Contact**
 - Email: punitvara@gmail.com
-- YouTube: [@punitvara](https://www.youtube.com/@punitvara)
+- YouTube: [@punitvara.](https://www.youtube.com/@punitvara.)
 - Twitter/X: [@punitvara](https://twitter.com/punitvara)
 - LinkedIn: [in/punitvara](https://www.linkedin.com/in/punitvara)
