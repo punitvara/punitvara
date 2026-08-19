@@ -1,7 +1,7 @@
 ### 👋 About Me
 Hi there, this is **Punit Vara**. Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/punitvara)
 
-I'm an Experienced Machine Learning Engineer, currently building ML training infrastructure and Agentic AI systems. Curious to read and follow almost all things ML.
+Software/ML systems engineer with experience across backend engineering, distributed data systems, cloud/MLOps, and LLM infrastructure — increasingly specializing in GPU-accelerated inference, distributed AI systems, and high-performance ML infrastructure. I like understanding systems from first principles rather than treating frameworks as black boxes.
 
 **:city_sunrise: Experience**
 - **Staff ML Engineer** · [Visa](https://www.visa.com) · *Aug.2025-Present*
@@ -12,7 +12,11 @@ I'm an Experienced Machine Learning Engineer, currently building ML training inf
 
 **🔬 Focus Areas**
 
-&ensp; MLOps, LLMs & Agentic AI, Distributed Training Infrastructure, Speech (STT/TTS)
+&ensp; LLM Inference & Serving (KV cache, quantization, llama.cpp) · GPU Systems & Collective Communication (NCCL, All-Reduce) · Distributed Data Systems (Kafka, Spark, Trino) · ML Infrastructure & MLOps (Kubernetes, Terraform, MLflow)
+
+**🌱 Currently Exploring**
+
+&ensp; GPU/NCCL communication primitives and distributed inference performance bottlenecks
 
 **📫 Contact**
 - LinkedIn: [in/punitvara](https://www.linkedin.com/in/punitvara)
